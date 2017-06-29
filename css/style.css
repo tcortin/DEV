@@ -179,12 +179,7 @@ section .heading h2{
     -moz-background-size: cover; 
     -o-background-size: cover; 
     background-size: cover;
-}
-@media screen and (max-width: 1024px){
-
-    #experience{
-    display: block;
-}
+    display: flex;
 }
 #experience .container{
     margin: auto;   
