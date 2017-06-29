@@ -146,6 +146,7 @@ section .heading h2{
     background: #fff;
     height: 100%;
     min-height: fit-content;
+    display: block;
     -webkit-background-size: cover; 
     -moz-background-size: cover; 
     -o-background-size: cover; 
