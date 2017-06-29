@@ -175,11 +175,11 @@ section .heading h2{
 #experience{
     background: #3c5b69;
     height: 100%;
-    -webkit-background-size: cover; 
-    -moz-background-size: cover; 
-    -o-background-size: cover; 
+    min-height: fit-content;
     background-size: cover;
-    display: flex;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 #experience .container{
     margin: auto;   
