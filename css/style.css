@@ -1,6 +1,7 @@
 /* GENERAL */
 html, body{
     height: 100%;
+    min-height: 100%;
 }
 
 body{
@@ -143,6 +144,11 @@ section .heading h2{
 
 #skills{
     background: #fff;
+    height: 100%;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
 }
 #skills .container{
     margin: auto;
@@ -167,6 +173,11 @@ section .heading h2{
 
 #experience{
     background: #3c5b69;
+    height: 100%;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
 }
 #experience .container{
     margin: auto;   
@@ -361,6 +372,11 @@ section .heading h2{
 
 #education{
     background: #fff;
+    height: 100%;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
 }
 #education .container{
     margin: auto;
@@ -403,6 +419,11 @@ section .heading h2{
 
 #portfolio{
     background: #7d4682;
+    height: 100%;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
 }
 #portfolio .container{
     margin: auto;
