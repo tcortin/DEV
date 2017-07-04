@@ -104,7 +104,6 @@ section .heading h2{
 #about{
     padding-top: 100px;
     background: #1a7252;
-    min-height: fit-content;
     min-height: 100%;
     max-height: fit-content;
     -webkit-background-size: cover; 
@@ -145,7 +144,6 @@ section .heading h2{
 
 #skills{
     background: #fff;
-    min-height: fit-content;
     min-height: 100%;
     max-height: fit-content;
     -webkit-background-size: cover; 
