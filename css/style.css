@@ -111,6 +111,13 @@ section .heading h2{
     -o-background-size: cover; 
     background-size: cover;
 }
+@media screen and (min-width: 1024px) {
+  #about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
 .profile-picture{
     text-align: center;
     margin: 0 auto;
@@ -151,6 +158,13 @@ section .heading h2{
     -o-background-size: cover; 
     background-size: cover;
 }
+@media screen and (min-width: 1024px) {
+  #skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
 #skills .container{
     margin: auto;
 }
@@ -180,6 +194,13 @@ section .heading h2{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+}
+@media screen and (min-width: 1024px) {
+  #experience {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 #experience .container{
     margin: auto;   
@@ -381,6 +402,13 @@ section .heading h2{
     -o-background-size: cover; 
     background-size: cover;
 }
+@media screen and (min-width: 1024px) {
+  #education {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
 #education .container{
     margin: auto;
 }
@@ -428,6 +456,13 @@ section .heading h2{
     -moz-background-size: cover; 
     -o-background-size: cover; 
     background-size: cover;
+}
+@media screen and (min-width: 1024px) {
+  #portfolio {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
 }
 #portfolio .container{
     margin: auto;
