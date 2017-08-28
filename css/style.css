@@ -178,7 +178,6 @@ section .heading h2{
 }
 #skills .progress-bar{
     background: #31655a;
-    width: 0;
 }
 #skills .progress h5{
     text-shadow: 1px 1px 1px #000;
@@ -265,7 +264,6 @@ section .heading h2{
     position: relative;
     box-shadow: 0 1px 6px rgba(0, 0, 0, 0.5);
     background: #fff;
-    opacity: 0;
 }
 .timeline-panel-container-inverted .timeline-panel{
     float: left;
