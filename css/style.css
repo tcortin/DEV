@@ -503,6 +503,7 @@ section .heading h2{
 }
 #myCarousel .item h3{
     color: #c6363c;
+    font-style: italic;
 }
 
 /* FOOTER */
