@@ -48,6 +48,14 @@ section .heading h2{
     background: #5d4a6f;
     margin: 0 auto;
 }
+.green{
+    color: #9DF46B;
+    text-shadow: none;
+}
+.orange{
+    color: #F0F46B;
+    text-shadow: none;
+}
 
 /* MENU */
 .navbar{
