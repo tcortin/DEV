@@ -69,6 +69,15 @@ and (max-width : 736px) {
     color: #F0F46B;
     text-shadow: none;
 }
+.icon-linkedin{
+    fill: #000;
+    width: 20px;
+    height: 20px;
+}
+.icon-linkedin:hover{
+    fill: #0077b5;
+    cursor: pointer;
+}
 
 /* MENU */
 .navbar{
